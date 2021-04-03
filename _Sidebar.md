@@ -15,5 +15,5 @@
 * [Troubleshooting](https://github.com/hicetnunc2000/hicetnunc/wiki/Troubleshooting)
 * [Community Tutorials](https://github.com/hicetnunc2000/hicetnunc/wiki/Community-tutorials)
 * [hDAO](https://github.com/hicetnunc2000/hicetnunc/wiki/hDAO)
-* [Edit your profile](https://github.com/hicetnunc2000/hicetnunc/wiki/How-to-edit-your-profile)
+* [Edit your profile](https://github.com/hicetnunc2000/hicetnunc/wiki/Edit-your-profile)
 * [Contributing](https://github.com/hicetnunc2000/hicetnunc/wiki/Contributing)
