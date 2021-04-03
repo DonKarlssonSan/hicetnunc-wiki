@@ -237,7 +237,7 @@ _(Kurdish)_
 ### ушул жерде жана азыр
 _(Kyrgyz)_
 
-### hei an elo### 
+### hei an elo
 _(Luxembourgish)_
 
 ### hawn u issa
