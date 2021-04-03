@@ -1,4 +1,4 @@
-author: pichiste
+author: @pichiste (Daniel Massey)
 
 # About
 
