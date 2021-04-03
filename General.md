@@ -1,6 +1,9 @@
 ## I have an idea for a new feature or an improvement! Where can I submit it?
 You can submit your feature [here](https://hicetnunc.featureupvote.com/) and the community will be able to vote on it. Please only submit your feature if it is not already on the list. The official way to submit features to the developers is on the [github issues](https://github.com/hicetnunc2000/hicetnunc/issues). There is also the #feature-requests and #suggestions channel in the [Discord](https://discord.gg/9qkgRsqa).
 
+## Can I sell my OBJKTs on Opensea?
+Opensea announced in February 2021 that they will be working with Tezos. They haven't announced any news since then. We can only hope this will be an option in the future.
+
 ## What is this 2.5% fee?
 The fee means that when your OBJKT sells, Hicetnunc will charge 2.5% of the sale. It is used to maintain the server. We suggest factoring this into your sell price to cover the costs.
 
