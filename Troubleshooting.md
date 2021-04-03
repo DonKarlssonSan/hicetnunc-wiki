@@ -2,7 +2,7 @@
 Head over to the [github issues](https://github.com/hicetnunc2000/hicetnunc/issues) to see if the issue hasn't already been reported. If it hasn't, you can submit it.
 
 ## I'm having trouble syncing.
-Try opening an incognito tab or clearing your cookies/cache to restart the wallet connection. You can also try a different browser. Also, try to "unsync" and then sync again.
+Try opening an incognito tab or clearing your cookies/cache to restart the wallet connection. You can also try a different browser. Also, try clicking the hamburger menu to "unsync" and then sync again.
 
 ## How do I edit the description of my NFT after I minted it?
 A transaction on a blockchain is irreversible. Once minted, you cannot edit the title, description, or tags. We recommend you consider burning it.
