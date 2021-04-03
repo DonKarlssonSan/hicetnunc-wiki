@@ -20,3 +20,5 @@ Proceed to [How to cancel ❌](https://github.com/hicetnunc2000/hicetnunc/wiki/H
 
 **Hint:** _When you are swapping, you are sending an amount of OBJKTs of your edition out of your wallet. Once the blockchain transaction is finished, the price should be set on the OBJKT and available for purchase, and your wallet should say that you sent that amount of OBJKTs._
 
+test
+
