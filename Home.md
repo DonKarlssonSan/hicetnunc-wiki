@@ -99,9 +99,6 @@ _(Indonesian)_
 ### 바로 지금
 _(Korean)_
 
-### disini dan sekarang
-_(Indonesian)_
-
 ### šeit un tagad
 _(Latvian)_
 
