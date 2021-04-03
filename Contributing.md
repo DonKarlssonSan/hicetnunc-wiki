@@ -1,4 +1,4 @@
-## How to Contribute?
+## How to Contribute to hicetnunc.xyz?
 You can contribute to Hic et Nunc either by contributing bug fixes and development, and other helpful documents with new content or translations.
 
 Please read the Contribution Guide or follow the steps below:
