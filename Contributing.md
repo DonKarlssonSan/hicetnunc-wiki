@@ -1,5 +1,5 @@
 ## How to Contribute?
-You can contribute to Hic et Nunc either by contributing bug fixes and development, or simply by updating this and other helpful documents with new content or translations.
+You can contribute to Hic et Nunc either by contributing bug fixes and development, and other helpful documents with new content or translations.
 
 Please read the Contribution Guide or follow the steps below:
 
