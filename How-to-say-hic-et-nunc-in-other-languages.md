@@ -1,25 +1,25 @@
-### hic et nunc
+**hic et nunc**
 _(Latin)_
 
-### هنا و الآن
+**هنا و الآن**
 _(Arabic)_
 
-### hier en nu
+**hier en nu**
 _(Dutch)_
 
-### aqui e agora
+**aqui e agora**
 _(Portuguese)_
 
-### ici et maintenant
+**ici et maintenant**
 _(French)_
 
-### Hier und Jetzt
+**Hier und Jetzt**
 _(German)_
 
-### qui e ora
+**qui e ora**
 _(Italian)_
 
-### 時おり
+**時おり**
 _(Japanese)_
 
 **here and now**
