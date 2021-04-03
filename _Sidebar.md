@@ -15,3 +15,4 @@
 * [Troubleshooting](https://github.com/hicetnunc2000/hicetnunc/wiki/Troubleshooting)
 * [hDAO](https://github.com/hicetnunc2000/hicetnunc/wiki/hDAO)
 * [Community Tutorials](https://github.com/hicetnunc2000/hicetnunc/wiki/Community-tutorials)
+* [Contributing](https://github.com/hicetnunc2000/hicetnunc/wiki/Contributing)
