@@ -2,85 +2,83 @@ Welcome to the hicetnunc wiki!
 ***
 ### **hic et nunc** _(Latin)_
 
-_(Arabic)_ هنا و الآن
+هنا و الآن _(Arabic)_
 
-_(Dutch)_
-hier en nu
+hier en nu _(Dutch)_
 
-_(French)_ ici et maintenant
+ici et maintenant _(French)_
 
-_(German)_ Hier und Jetzt
+Hier und Jetzt _(German)_
 
-_(Italian)_
 qui e ora
+_(Italian)_
 
-_(Japanese)_
 時おり
+_(Japanese)_
 
-_(Russian)_
 здесь и сейчас
+_(Russian)_
 
-_(Spanish)_
 aquí y ahora
+_(Spanish)_
 
-_(Bengali)_
 এখানে এবং এখন
+_(Bengali)_
 
-_(Chinese Simplified)_
 此时此地
+_(Chinese Simplified)_
 
-_(Czech)_
 tady a teď
+_(Czech)_
 
-_(Esperanto)_
 ĉi tie kaj nun
+_(Esperanto)_
 
-_(Finnish)_
 tässä ja nyt
+_(Finnish)_
 
-_(Greek)_
 εδώ και τώρα
+_(Greek)_
 
-_(Filipino)_
 dito at ngayon
+_(Filipino)_
 
-_(Croatian)_
 ovdje i sada
+_(Croatian)_
 
-_(Catalan)_
 aquí i ara
+_(Catalan)_
 
-_(Bulgarian)_
 тук и сега
+_(Bulgarian)_
 
-_(Chinese Traditional)_
 此時此地
+_(Chinese Traditional)_
 
-_(Danish)_
 her og nu
+_(Danish)_
 
-_(Estonian)_
 siin ja praegu
+_(Estonian)_
 
-_(Hebrew)_
 כאן ועכשיו
+_(Hebrew)_
 
-_(Lithuanian)_
 čia ir dabar
+_(Lithuanian)_
 
-_(Marathi)_
 येथे आणि आता
+_(Marathi)_
 
-_(Portuguese)_
 aqui e agora
+_(Portuguese)_
 
-_(Serbian)_
 овде и сада
+_(Serbian)_
 
-_(Slovak)_
 tu a teraz
+_(Slovak)_
 
-_(Romanian)_
 aici și acum
 
 _(Norwegian)_
