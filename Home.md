@@ -1,90 +1,98 @@
 Welcome to the hicetnunc wiki!
+
+### **hic et nunc** 
+_(Latin)_
 ***
-### **hic et nunc** _(Latin)_
+### هنا و الآن 
+_(Arabic)_
 
-هنا و الآن _(Arabic)_
+### hier en nu 
+_(Dutch)_
 
-hier en nu _(Dutch)_
+### ici et maintenant 
+_(French)_
 
-ici et maintenant _(French)_
+### Hier und Jetzt 
+_(German)_
 
-Hier und Jetzt _(German)_
-
-qui e ora
+### qui e ora
 _(Italian)_
 
-時おり
+### 時おり
 _(Japanese)_
 
-здесь и сейчас
+### here and now
+_(English)_
+
+### здесь и сейчас
 _(Russian)_
 
-aquí y ahora
+### aquí y ahora
 _(Spanish)_
 
-এখানে এবং এখন
+### এখানে এবং এখন
 _(Bengali)_
 
-此时此地
+### 此时此地
 _(Chinese Simplified)_
 
-tady a teď
+### tady a teď
 _(Czech)_
 
-ĉi tie kaj nun
+### ĉi tie kaj nun
 _(Esperanto)_
 
-tässä ja nyt
+### tässä ja nyt
 _(Finnish)_
 
-εδώ και τώρα
+### εδώ και τώρα
 _(Greek)_
 
-dito at ngayon
+### dito at ngayon
 _(Filipino)_
 
-ovdje i sada
+### ovdje i sada
 _(Croatian)_
 
-aquí i ara
+### aquí i ara
 _(Catalan)_
 
-тук и сега
+### тук и сега
 _(Bulgarian)_
 
-此時此地
+### 此時此地
 _(Chinese Traditional)_
 
-her og nu
+### her og nu
 _(Danish)_
 
-siin ja praegu
+### siin ja praegu
 _(Estonian)_
 
-כאן ועכשיו
+### כאן ועכשיו
 _(Hebrew)_
 
-čia ir dabar
+### čia ir dabar
 _(Lithuanian)_
 
-येथे आणि आता
+### येथे आणि आता
 _(Marathi)_
 
-aqui e agora
+### aqui e agora
 _(Portuguese)_
 
-овде и сада
+### овде и сада
 _(Serbian)_
 
-tu a teraz
+### tu a teraz
 _(Slovak)_
 
-aici și acum
-
+### aici și acum
 _(Norwegian)_
+
 her og nå
 
-_(Malay)_
+### _(Malay)_
 disini dan sekarang
 
 _(Korean)_
@@ -249,52 +257,52 @@ konei a inaianei
 _(Pashto)_
 دلته او اوس
 
+### اینجا و الان
 _(Persian)_
-اینجا و الان
 
+### mona le hona joale
 _(Sesotho)_
-mona le hona joale
 
+### an-seo agus an-dràsta
 _(Scots Gaelic)_
-an-seo agus an-dràsta
 
+### iinei ma le taimi nei
 _(Samoan)_
-iinei ma le taimi nei
 
+### דאָ און איצט
 _(Yiddish)_
-דאָ און איצט
 
+### bu erda va hozir
 _(Uzbek)_
-bu erda va hozir
 
+### halkan iyo hadda
 _(Somali)_
-halkan iyo hadda
 
+### pano uye ikozvino
 _(Shona)_
-pano uye ikozvino
 
+### nibi ati bayi
 _(Yoruba)_
-nibi ati bayi
 
+### yma ac yn awr
 _(Welsh)_
-yma ac yn awr
 
+### didieu sareng ayeuna
 _(Sundanese)_
-didieu sareng ayeuna
 
+### هتي ۽ هاڻي
 _(Sindhi)_
-هتي ۽ هاڻي
 
+### මෙතන සහ දැන්
 _(Sinhala)_
-මෙතන සහ දැන්
 
+### hapa na sasa
 _(Swahili)_
-hapa na sasa
 
+### apha ngoku
 _(Xhosa)_
-apha ngoku
 
+### lapha manje
 _(Zulu)_
-lapha manje
 
 ***
