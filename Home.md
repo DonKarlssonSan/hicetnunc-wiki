@@ -1,4 +1,4 @@
-Welcome to the hicetnunc wiki!
+Welcome to the hicetnunc wiki! New? Start here: [Intro](https://github.com/hicetnunc2000/hicetnunc/wiki/Home/Introduction)
 
 ### **hic et nunc** 
 _(Latin)_
