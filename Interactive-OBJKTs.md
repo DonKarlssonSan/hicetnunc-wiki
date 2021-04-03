@@ -1,6 +1,6 @@
 # About
 
-Hit et nunc enables you to publish web-based interactive and generative artworks by uploading a zip archive. If you're starting on a new project, have a look at our starter [templates](https://github.com/hicetnunc2000/hicetnunc/tree/main/templates). The following guide walks you through the process of minting your first interactive NFT.
+Hit et nunc enables you to publish web-based interactive and generative artworks by uploading a zip archive. If you're starting on a new project, have a look at our starter [templates](https://github.com/hicetnunc2000/hicetnunc/tree/main/templates). The following guide walks you through the process of minting your first interactive OBJKT.
 
 # Getting Started
 
@@ -45,7 +45,7 @@ const viewer = new URLSearchParams(window.location.search).get('viewer')
 - Head to [https://hicetnunc.xyz/mint](https://hicetnunc.xyz/mint), fill out the information for your work, and upload your zip file.
 - You should now see a preview of your work embedded on the page. Make sure to test it thoroughly to make sure it works as expected.
 - If everything looks good, make sure your wallet is synced and press the "mint" button at the bottom of the page.
-- Congratulations! You have just minted your first interactive NFT 🎉
+- Congratulations! You have just minted your first interactive OBJKT 🎉
 
 # Known Issues
 
