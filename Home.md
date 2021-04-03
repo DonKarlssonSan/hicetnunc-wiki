@@ -1,4 +1,4 @@
-Welcome to the hicetnunc wiki! Here you will learn how to mint your first OBJKT.
+Welcome to the hicetnunc wiki!
 ***
 ### **OBJKT**
 1: _(noun)_ something material that may be perceived by the senses
