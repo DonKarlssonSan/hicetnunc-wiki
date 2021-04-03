@@ -1,3 +1,8 @@
+Below is a guide to make an interactive OBJKT.
+
+Also check out the [templates](https://github.com/hicetnunc2000/hicetnunc/tree/develop/templates) for p5.js, shaders, html, and svg.
+
+
 author: @pichiste (Daniel Massey)
 
 # About
