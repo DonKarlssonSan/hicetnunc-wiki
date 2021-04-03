@@ -1,3 +1,5 @@
+author: pichiste
+
 # About
 
 Hit et nunc enables you to publish web-based interactive and generative artworks by uploading a zip archive. If you're starting on a new project, have a look at our starter [templates](https://github.com/hicetnunc2000/hicetnunc/tree/main/templates). The following guide walks you through the process of minting your first interactive OBJKT.
