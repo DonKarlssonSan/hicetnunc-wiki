@@ -12,4 +12,4 @@ Here are the steps to get started:
 * Please try to keep your PR as small and objective as possible, it makes it easier for us to add it into the main repository. For questions feel free to reach our on Discord for support, and thanks for your willingness to help this project. You can also talk to the devs in the #devs channel in the Discord.
 
 ## How to Contribute to the Wiki?
-Coming soon
+You can clone this repo `git clone https://github.com/hicetnunc2000/hicetnunc.wiki.git`
