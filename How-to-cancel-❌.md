@@ -12,6 +12,7 @@ Let’s say I want to raise my price, or set my OBJKTs as “not for sale”.
 2. Click on [collectors] and then [cancel]. This will send the OBJKTs back to your wallet. Check your wallet for confirmation.
 3. Now that they are back in your wallet, you can [swap] them again.
 
+If you want to delete your OBJKT, continue to [How to burn 🔥](https://github.com/hicetnunc2000/hicetnunc/wiki/How-to-burn-🔥)
 ***
 
 **Important:** _If you try to [swap] on OBJKTs that are currently for sale, your wallet will throw a warning saying that you have `insufficient funds`. This is because you already sent your OBJKTs out of your wallet in the first swap. You need to [cancel] to get the OBJKTs back in your wallet, and then you can [swap] them again._
