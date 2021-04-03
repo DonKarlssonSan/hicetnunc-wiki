@@ -9,19 +9,6 @@ Unfortunately, there are people minting NFTs who did not create what they upload
 
 To make it easier for them, please leave a trace to any social profile or website in the description of your artwork, so potential buyers can validate the authenticity. If you can link the NFTs the artist is advertising on the profile with the NFTs on Hicetnunc, you can assume it is legit.
 
-## How to Contribute?
-You can contribute to Hic et Nunc either by contributing bug fixes and development, or simply by updating this and other helpful documents with new content or translations.
-
-Please read the Contribution Guide or follow the steps below:
-
-Here are the steps to get started:
-
-* Create a Github account
-* Go to our repository and on the top right click the "Fork" button. This will create a copy of the repository to your own account.
-* From the forked repository (now on your account), feel free to make the changes you wish to see.
-* Once done, create a Pull Request (PR). A Pull request is basically a way for us to verify the content you want to add to the main repository. We will review it, request any amendments and if all goes well merge it. After that, your contributions will generally go live in our next deployment cycle.
-* Please try to keep your PR as small and objective as possible, it makes it easier for us to add it into the main repository. For questions feel free to reach our on Discord for support, and thanks for your willingness to help this project. You can also talk to the devs in the #devs channel in the Discord.
-
 ## How can I promote my NFT or my NFT exhibition?
 Our discord has the following promotion channels:
 
