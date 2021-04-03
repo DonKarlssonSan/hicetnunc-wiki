@@ -10,3 +10,6 @@ Here are the steps to get started:
 * From the forked repository (now on your account), feel free to make the changes you wish to see.
 * Once done, create a Pull Request (PR). A Pull request is basically a way for us to verify the content you want to add to the main repository. We will review it, request any amendments and if all goes well merge it. After that, your contributions will generally go live in our next deployment cycle.
 * Please try to keep your PR as small and objective as possible, it makes it easier for us to add it into the main repository. For questions feel free to reach our on Discord for support, and thanks for your willingness to help this project. You can also talk to the devs in the #devs channel in the Discord.
+
+## How to Contribute to the Wiki?
+Coming soon
