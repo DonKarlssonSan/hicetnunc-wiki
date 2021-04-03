@@ -7,10 +7,10 @@ The fee means that when your OBJKT sells, Hicetnunc will charge 2.5% of the sale
 ## How to avoid copyminters
 Unfortunately, there are people minting NFTs who did not create what they upload. These copyminters, as we call them, try to make a quick buck with art from other people. Collectors have to very careful and try to find out who the artists are and if the art is genuine.
 
+To make it easier for buyers, please leave a trace to any social profile or website in the description of your artwork, so potential buyers can validate the authenticity. If you can link the NFTs the artist is advertising on the profile with the NFTs on Hicetnunc, you can assume it is legit.
+
 ## I want to report a copyminter
 The fastest way to report a copyminter in our [discord](https://discord.gg/9qkgRsqa) in the #report-abuse channel.
-
-To make it easier for them, please leave a trace to any social profile or website in the description of your artwork, so potential buyers can validate the authenticity. If you can link the NFTs the artist is advertising on the profile with the NFTs on Hicetnunc, you can assume it is legit.
 
 ## How can I promote my NFT or my NFT exhibition?
 Our discord has the following promotion channels:
