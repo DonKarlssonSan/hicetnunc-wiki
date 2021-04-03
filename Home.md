@@ -9,6 +9,9 @@ _(Arabic)_
 ### hier en nu 
 _(Dutch)_
 
+### aqui e agora
+_(Portuguese)_
+
 ### ici et maintenant 
 _(French)_
 
@@ -77,9 +80,6 @@ _(Lithuanian)_
 
 ### येथे आणि आता
 _(Marathi)_
-
-### aqui e agora
-_(Portuguese)_
 
 ### овде и сада
 _(Serbian)_
