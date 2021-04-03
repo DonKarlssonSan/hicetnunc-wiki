@@ -88,174 +88,175 @@ _(Serbian)_
 _(Slovak)_
 
 ### aici și acum
-_(Norwegian)_
+_(Romanian)_
 
-her og nå
+### her og nå
+_(Norwegian)_
 
 ### _(Malay)_
 disini dan sekarang
 
+### 바로 지금
 _(Korean)_
-바로 지금
 
+### disini dan sekarang
 _(Indonesian)_
-disini dan sekarang
 
+### šeit un tagad
 _(Latvian)_
-šeit un tagad
 
+### ഇവിടെ ഇപ്പോൾ
 _(Malayalam)_
-ഇവിടെ ഇപ്പോൾ
 
+### tu i teraz
 _(Polish)_
-tu i teraz
 
+### tukaj in zdaj
 _(Slovenian)_
-tukaj in zdaj
 
+### ин ҷо ва ҳозир
 _(Tajik)_
-ин ҷо ва ҳозир
 
+### ที่นี่และตอนนี้
 _(Thai)_
-ที่นี่และตอนนี้
 
+### یہاں اور ابھی
 _(Urdu)_
-یہاں اور ابھی
 
+### тут і зараз
 _(Ukrainian)_
-тут і зараз
 
+### ఇప్పుడే ఇక్కడే
 _(Telugu)_
-ఇప్పుడే ఇక్కడే
 
+### här och nu
 _(Swedish)_
-här och nu
 
+### இங்கு இப்பொழுது
 _(Tamil)_
-இங்கு இப்பொழுது
 
+### burada ve şimdi
 _(Turkish)_
-burada ve şimdi
 
+### ở đây và bây giờ
 _(Vietnamese)_
-ở đây và bây giờ
 
+### hier en nou
 _(Afrikaans)_
-hier en nou
 
+### këtu dhe tani
 _(Albanian)_
-këtu dhe tani
 
+### እዚህ እና አሁን
 _(Amharic)_
-እዚህ እና አሁን
 
+### dinhi ug karon
 _(Cebuano)_
-dinhi ug karon
 
+### burda və indi
 _(Azerbaijani)_
-burda və indi
 
+### hemen eta orain
 _(Basque)_
-hemen eta orain
 
+### sada i ovdje
 _(Bosnian)_
-sada i ovdje
 
+### тут і цяпер
 _(Belarusian)_
-тут і цяпер
 
+### այստեղ եւ հիմա
 _(Armenian)_
-այստեղ եւ հիմա
 
+### Pano ndipo tsopano
 _(Chichewa)_
-Pano ndipo tsopano
 
+### aquí e agora
 _(Galician)_
-aquí e agora
 
+### აქ და ახლა
 _(Georgian)_
-აქ და ახლა
 
+### quì è avà
 _(Corsican)_
-quì è avà
 
+### hjir en no
 _(Frisian)_
-hjir en no
 
+### અહીં અને હવે
 _(Gujarati)_
-અહીં અને હવે
 
+### eia a ʻānō
 _(Hawaiian)_
-eia a ʻānō
 
+### itt és most
 _(Hungarian)_
-itt és most
 
+### no thiab tam sim no
 _(Hmong)_
-no thiab tam sim no
 
+### nan da yanzu
 _(Hausa)_
-nan da yanzu
 
+### isit la e kounye a
 _(Haitian Creole)_
-isit la e kounye a
 
+### अभी
 _(Hindi)_
-अभी
 
+### hér og nú
 _(Icelandic)_
-hér og nú
 
+### Ebe a na ugbua
 _(Igbo)_
-Ebe a na ugbua
 
+### anseo agus anois
 _(Irish)_
-anseo agus anois
 
+### осында және қазір
 _(Kazakh)_
-осында және қазір
 
+### ಇಲ್ಲಿ ಮತ್ತು ಈಗ
 _(Kannada)_
-ಇಲ್ಲಿ ಮತ್ತು ಈಗ
 
+### kene lan saiki
 _(Javanese)_
-kene lan saiki
 
+### នៅ​ទីនេះ​និង​ឥឡូវនេះ
 _(Khmer)_
-នៅ​ទីនេះ​និង​ឥឡូវនេះ
 
+### ທີ່ນີ້ແລະດຽວນີ້
 _(Lao)_
-ທີ່ນີ້ແລະດຽວນີ້
 
+### eto sy izao
 _(Malagasy)_
-eto sy izao
 
+### vir û naha
 _(Kurdish)_
-vir û naha
 
+### ушул жерде жана азыр
 _(Kyrgyz)_
-ушул жерде жана азыр
 
+### hei an elo### 
 _(Luxembourgish)_
-hei an elo
 
+### hawn u issa
 _(Maltese)_
-hawn u issa
 
+### ဒီအချိန်ဒီနေရာ
 _(Myanmar)_
-ဒီအချိန်ဒီနေရာ
 
+### яг одоо энд
 _(Mongolian)_
-яг одоо энд
 
+### konei a inaianei
 _(Maori)_
-konei a inaianei
 
-(Nepali)
-यहाँ र अब
+### यहाँ र अब
+_(Nepali)_
 
+### دلته او اوس
 _(Pashto)_
-دلته او اوس
 
 ### اینجا و الان
 _(Persian)_
