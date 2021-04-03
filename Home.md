@@ -93,8 +93,8 @@ _(Romanian)_
 ### her og nå
 _(Norwegian)_
 
-### _(Malay)_
-disini dan sekarang
+### disini dan sekarang
+_(Indonesian)_
 
 ### 바로 지금
 _(Korean)_
