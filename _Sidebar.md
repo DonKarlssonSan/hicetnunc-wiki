@@ -7,7 +7,7 @@
 * [How to cancel ❌](https://github.com/hicetnunc2000/hicetnunc/wiki/How-to-cancel-❌)
 * [How to burn 🔥](https://github.com/hicetnunc2000/hicetnunc/wiki/How-to-burn-🔥)
 * [How to resell 💱](https://github.com/hicetnunc2000/hicetnunc/wiki/How-to-resell-💱)
-* [Interactive OBJKTs](https://github.com/hicetnunc2000/hicetnunc/wiki/Interactive-OBJKTs)
+* [How to mint an interactive OBJKTs](https://github.com/hicetnunc2000/hicetnunc/wiki/Interactive-OBJKTs)
 
 **FAQ**
 
