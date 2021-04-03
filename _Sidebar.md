@@ -1,3 +1,4 @@
+* [Home](https://github.com/hicetnunc2000/hicetnunc/wiki)
 
 **Minting Guide**
 * [Introduction](https://github.com/hicetnunc2000/hicetnunc/wiki/Introduction)
