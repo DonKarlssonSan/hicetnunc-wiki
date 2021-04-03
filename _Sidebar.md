@@ -9,7 +9,7 @@
 * [How to resell 🏪](https://github.com/hicetnunc2000/hicetnunc/wiki/How-to-resell-🏪)
 * [Interactive OBJKTs](https://github.com/hicetnunc2000/hicetnunc/wiki/Interactive-OBJKTs)
 
-**FAQ**
+**FAQs**
 
 * [General](https://github.com/hicetnunc2000/hicetnunc/wiki/General)
 * [Troubleshooting](https://github.com/hicetnunc2000/hicetnunc/wiki/Troubleshooting)
