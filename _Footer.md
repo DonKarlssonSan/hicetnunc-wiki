@@ -1,1 +1,1 @@
-_ Please use the sidebar to navigate_
+_Please use the sidebar to navigate_
