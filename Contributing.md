@@ -35,8 +35,8 @@ We will be using a Git flow approach. This means that you will need to create a 
 If Git flow is something new to you, don't feel intimidated, come and join us on Discord and we'll take the time to help.
 
 # How to Contribute to the Wiki?
-You can clone this repo 
+You can clone this repo if you'd like,
 
 `git clone https://github.com/hicetnunc2000/hicetnunc.wiki.git`
 
-Since wikis do not have pull requests, you can make a new issue and put a label as "FAQ". Someone who is already contributor will review it and merge your changes.
+however, since wikis do not have pull requests, you should make a new issue and put a label as "FAQ". Someone who is already contributor will review it and merge your changes.
