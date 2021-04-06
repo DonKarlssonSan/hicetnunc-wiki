@@ -18,3 +18,6 @@
 * [hDAO](https://github.com/hicetnunc2000/hicetnunc/wiki/hDAO)
 * [Contributing](https://github.com/hicetnunc2000/hicetnunc/wiki/Contributing)
 * [Beware Copyminters!](https://github.com/hicetnunc2000/hicetnunc/wiki/Beware-copyminters!)
+
+**Misc**
+* [NFT Creators' Code of Conduct](https://github.com/hicetnunc2000/hicetnunc/wiki/Nft-creators-code-of-conduct)
