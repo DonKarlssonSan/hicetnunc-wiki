@@ -34,21 +34,7 @@ We will be using a Git flow approach. This means that you will need to create a 
 
 If Git flow is something new to you, don't feel intimidated, come and join us on Discord and we'll take the time to help.
 
-
-# How to Contribute to hicetnunc.xyz (for beginners)?
-You can contribute to Hic et Nunc either by contributing bug fixes and development, and other helpful documents with new content or translations.
-
-Please read the [Contribution Guide](https://github.com/hicetnunc2000/hicetnunc/blob/develop/CONTRIBUTING.md) or follow the steps below:
-
-Here are the steps to get started:
-
-* Create a Github account
-* Go to our repository and on the top right click the "Fork" button. This will create a copy of the repository to your own account.
-* From the forked repository (now on your account), feel free to make the changes you wish to see.
-* Once done, create a Pull Request (PR). A Pull request is basically a way for us to verify the content you want to add to the main repository. We will review it, request any amendments and if all goes well, merge it. After that, your contributions will generally go live in our next deployment cycle.
-* Please try to keep your PR as small and objective as possible, it makes it easier for us to add it into the main repository. For questions feel free to reach our on Discord for support, and thanks for your willingness to help this project. You can also talk to the devs in the #devs channel in the Discord.
-
-## How to Contribute to the Wiki?
+# How to Contribute to the Wiki?
 You can clone this repo 
 
 `git clone https://github.com/hicetnunc2000/hicetnunc.wiki.git`
