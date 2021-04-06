@@ -20,4 +20,4 @@
 * [Beware Copyminters!](https://github.com/hicetnunc2000/hicetnunc/wiki/Beware-copyminters!)
 
 **Misc**
-* [NFT Creators' Code of Conduct](https://github.com/hicetnunc2000/hicetnunc/wiki/Nft-creators-code-of-conduct)
+* [NFT Creators' Code of Conduct](https://github.com/hicetnunc2000/hicetnunc/wiki/NFT-Creators-Code-of-Conduct)
