@@ -1,4 +1,4 @@
-author: chilltulpa
+_author: chilltulpa_
 
 In the spirit of keeping artists and collectors alike safe, we'd like to share a little about what a copyminter is and how to navigate what to do on Hicetnunc if you think you’ve encountered one.  
 
