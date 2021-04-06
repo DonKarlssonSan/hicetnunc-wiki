@@ -17,3 +17,5 @@
 * [Edit your profile](https://github.com/hicetnunc2000/hicetnunc/wiki/Edit-your-profile)
 * [hDAO](https://github.com/hicetnunc2000/hicetnunc/wiki/hDAO)
 * [Contributing](https://github.com/hicetnunc2000/hicetnunc/wiki/Contributing)
+* [Beware Copyminters!](https://github.com/hicetnunc2000/hicetnunc/wiki/Beward-copyminters)
+)
