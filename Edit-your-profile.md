@@ -3,12 +3,12 @@ author: Johan Karlsson (DonKarlssonSan)
 ## How to get verified
 -- or how do I get my name in the profile?
 
-Short Answer: Fill out this google doc and wait ~72 hours https://docs.google.com/forms/d/e/1FAIpQLSdlHVqzIxPFL-gAXNxEefyBtI3g3_wiCgcf80bX4tYsXC7b5A/viewform
+### Short Answer: Fill out this google doc and wait ~72 hours https://docs.google.com/forms/d/e/1FAIpQLSdlHVqzIxPFL-gAXNxEefyBtI3g3_wiCgcf80bX4tYsXC7b5A/viewform
 
 
 ***
 
-Long answer: 
+### Long answer: 
 hicetnunc fetches the profile information from https://tzkt.io so to get your name associated with your wallet address you need to contact tzkt.io. They will ask you to fill in a form and to transfer a small amount of tez from your wallet to prove it is really you.
 
 1. Go to your hic et nunc profile
