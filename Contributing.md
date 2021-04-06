@@ -16,4 +16,4 @@ You can clone this repo
 
 `git clone https://github.com/hicetnunc2000/hicetnunc.wiki.git`
 
-More info coming soon
+Since wikis do not have pull requests, you can make a new issue and put a label as "FAQ". Someone who is already contributor will review it and merge your changes.
