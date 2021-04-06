@@ -4,8 +4,8 @@ author: Johan Karlsson (DonKarlssonSan)
 -- or how do I get my name in the profile?
 
 ### Short Answer: 
-Fill out this google doc and wait ~72 hours 
-[Google doc link](https://docs.google.com/forms/d/e/1FAIpQLSdlHVqzIxPFL-gAXNxEefyBtI3g3_wiCgcf80bX4tYsXC7b5A/viewform)
+Fill out this [Google doc](https://docs.google.com/forms/d/e/1FAIpQLSdlHVqzIxPFL-gAXNxEefyBtI3g3_wiCgcf80bX4tYsXC7b5A/viewform)
+ and wait ~72 hours 
 
 
 ***
