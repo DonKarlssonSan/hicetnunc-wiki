@@ -8,6 +8,7 @@ An example of the info stored in the hDAO blockchain:
 ```OBJKT KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton
 hDAO KT1AFA2mwNUMNd4SsujE1YYp29vd8BZejyKW
 Curations KT1TybhR7XraG75JFYKSrh7KnxukMBT5dor6 (hDAO-NFT wallet)
-OBJKT Swap/Mintery KT1Hkg5qeNhfwpKW4fXvq7HGZB9z2EnmCCA9```
+OBJKT Swap/Mintery KT1Hkg5qeNhfwpKW4fXvq7HGZB9z2EnmCCA9
+```
 
 The hDAOs appear in your profile and should appear in your wallet.
