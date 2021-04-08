@@ -2,6 +2,7 @@
 
 **Minting Guide**
 * [Introduction](https://github.com/hicetnunc2000/hicetnunc/wiki/Introduction)
+* [Getting started with Tezos](https://github.com/hicetnunc2000/hicetnunc/wiki/Getting-Started-with-Tezos)
 * [How to mint 🌿](https://github.com/hicetnunc2000/hicetnunc/wiki/How-to-mint-🌿)
 * [How to swap 🔃](https://github.com/hicetnunc2000/hicetnunc/wiki/How-to-swap-🔃)
 * [How to cancel ❌](https://github.com/hicetnunc2000/hicetnunc/wiki/How-to-cancel-❌)
