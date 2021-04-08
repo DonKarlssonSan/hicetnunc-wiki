@@ -29,3 +29,11 @@ You can also make a post on reddit in r/hicetnunc, or message the twitter and in
 ## Do you support multiple languages?
 Yes, we are actively working on supporting multiple languages. You can follow the development [here](https://github.com/hicetnunc2000/hicetnunc/issues/173)
 
+## I received some tez, so i suppose I sold a work. But where do i see which OBJKT I sold?
+
+First of all, congratulations. This is one method of seeing which work sold:
+ 
+1. View your transactions on www.tzkt.io/[your wallet address]
+2. Click on the transaction
+3. Copy the persons wallet and go to their hic profile with it
+4. Look at their collections
