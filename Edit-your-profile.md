@@ -22,3 +22,7 @@ hicetnunc fetches the profile information from https://tzkt.io so to get your na
 7. They will send you instructions on how to proceed.
 8. They will ask you to fill in a form with your contact information
 9. They will ask you to transfer 0.00177 tez to their address and provide the transaction in the form
+
+## Help, I submitted the form over 72 hours ago but nothing has changed.
+
+Thats a question for the baking bad team, as hicetnunc doesn't have any control over it. You can try contact them on Telegram or resubmitting the form. https://t.me/baking_bad_chat
