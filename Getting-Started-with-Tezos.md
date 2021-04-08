@@ -7,7 +7,7 @@ Tezos (XTZ) is a liquid proof-of-stake cryptocurrency (LPoS). You can read more 
 Most of our users use [Kukai wallet](https://wallet.kukai.app/) or [Temple wallet](https://templewallet.com/). We've seen issues with Airgap so we don't recommend it.
 
 ## Where to buy tezos
-Minting on hicetnunc only costs ~0.08 tezos, so you can either buy some on an exchange site like Binance or Kraken. We recommend consulting with someone who is from whatever country you are in because exchange services are provided depending on the country.
+Minting on hicetnunc only costs ~0.08 tezos. You can buy some on an exchange site like Binance or Kraken, however we recommend consulting with someone who is from whatever country you are in because exchange services are provided depending on the country.
 
 ## The hicetnunc tezos fountain ⛲
 You can also request to take some tezos from the Hicetnunc tezos fountain. Message @devetec or @violetforest on the discord and we will 0.33 TEZ to mint and swap your first OBJKTs.
