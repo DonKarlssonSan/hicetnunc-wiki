@@ -13,4 +13,4 @@ Minting on hicetnunc only costs ~0.08 tezos, so you can either buy some on an ex
 You can also request to take some tezos from the Hicetnunc tezos fountain. Message @devetec or @violetforest on the discord and we will send you some tezos to mint your first OBJKT.
 
 ## Donating to the hicetnunc fountain
-Want to donate some tezos to help support artists to new hicetnunc? You can send some tezos here: tz1eggoxCes1qYRGLc3E1bg4uzuCUUuuQBb9
+Want to donate some tezos to help support artists that are new hicetnunc? You can send some tezos here: tz1eggoxCes1qYRGLc3E1bg4uzuCUUuuQBb9
