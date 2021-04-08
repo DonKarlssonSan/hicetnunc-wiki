@@ -1,4 +1,6 @@
-First you will need Tezos. 
+First you will need Tezos and a Tezos wallet.
+
+Most of our users use Kukai wallet or Temple wallet.
 
 Minting on hicetnunc only costs ~0.08 tezos, so you can either buy some on an exchange site like Binance or Kraken. We recommend consulting with someone who is from whatever country you are in because exchange services are provided depending on the country.
 
