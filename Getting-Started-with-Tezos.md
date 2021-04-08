@@ -14,3 +14,8 @@ You can also request to take some tezos from the Hicetnunc tezos fountain. Messa
 
 ## Donating to the hicetnunc fountain
 Want to donate some tezos to help support artists that are new hicetnunc? You can send some tezos here: tz1eggoxCes1qYRGLc3E1bg4uzuCUUuuQBb9
+
+***
+Already have tezos? 
+
+Continue to [How to mint 🌿](https://github.com/hicetnunc2000/hicetnunc/wiki/How-to-mint-🌿) to create your first OBJKT!
