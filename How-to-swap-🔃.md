@@ -17,7 +17,7 @@
 ***
 
 ### Help, my wallet is giving me an `insufficient funds available` error!
-You might be try to swap more editions than you minted. 
+You might be trying to swap more editions than you minted, or your object is still for sale and you need to cancel it first.
 
 Proceed to [How to cancel ❌](https://github.com/hicetnunc2000/hicetnunc/wiki/How-to-cancel-❌) to learn how to take your OBJKT off the market or change the price.
 
