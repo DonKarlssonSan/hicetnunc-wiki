@@ -14,12 +14,12 @@
 
 **Important:** _When you are swapping, you are sending an amount of OBJKTs of your edition out of your wallet. They're being held in a Hic et Nunc escrow wallet ready to be transferred to the buyer, which is why they're no longer visible in your wallet. Once the blockchain transaction is finished, the price should be set on the OBJKT and available for purchase, and your wallet should say that you sent that amount of OBJKTs._
 
+Proceed to [How to cancel ❌](https://github.com/hicetnunc2000/hicetnunc/wiki/How-to-cancel-❌) to learn how to take your OBJKT off the market or change the price.
 ***
 
 ### Help, my wallet is giving me an `insufficient funds available` error!
 You might be trying to swap more editions than you minted, or your object is still for sale and you need to cancel it first.
 
-Proceed to [How to cancel ❌](https://github.com/hicetnunc2000/hicetnunc/wiki/How-to-cancel-❌) to learn how to take your OBJKT off the market or change the price.
 
 ***
 
