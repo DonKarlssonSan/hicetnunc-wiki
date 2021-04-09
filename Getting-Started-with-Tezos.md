@@ -10,10 +10,10 @@ Most of our users use [Kukai wallet](https://wallet.kukai.app/) or [Temple walle
 Minting on hicetnunc only costs ~0.08 tezos. You can buy some on an exchange site like Binance or Kraken, however we recommend consulting with someone who is from whatever country you are in because exchange services are provided depending on the country.
 
 ## The hicetnunc tezos fountain ⛲
-If you are an artist, you can also request to take some tezos from the Hicetnunc tezos fountain. Please follow the instructions belowL
+If you are an artist, you can also request to take some tezos from the Hicetnunc tezos fountain. Please follow the instructions below:
 
-1. Post the fountain emoji on one of your socials so ew can verify you are the artist
-2. Message @devetec or @violetforest on the discord with your tezos wallet address.
+1. Post the fountain emoji on one of your socials so we can verify you are the artist
+2. Message @devetec (USA timezone) or @violetforest (europe time zone) on the discord with your tezos wallet address.
 3. We will 0.33 TEZ to mint and swap your first OBJKTs. Please allow at least 24 hours for us to respond :)
 
 ## Donating to the hicetnunc fountain
