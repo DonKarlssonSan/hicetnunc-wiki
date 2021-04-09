@@ -1,5 +1,7 @@
 Tutorials created by the hicetnunc community
 
+(Since the platform changes so much we think you'll find the latest ones to be most relevant)
+
 ***
 * [How I create NFTs on Hic Et Nunc 👾🌍♻️](https://youtu.be/VOa1Ky4rcKc) by Banjo Funk _8 April, 2021_
 * [Quickstart Tutorial Videos](https://twitter.com/verticalcrypto/status/1374349022245359627) by VerticalCrypto _23 March, 2021_
