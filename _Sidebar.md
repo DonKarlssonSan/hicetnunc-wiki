@@ -16,7 +16,7 @@
 * [General](https://github.com/hicetnunc2000/hicetnunc/wiki/General)
 * [Troubleshooting](https://github.com/hicetnunc2000/hicetnunc/wiki/Troubleshooting)
 * [Edit your profile](https://github.com/hicetnunc2000/hicetnunc/wiki/Edit-your-profile)
-* [hDAO](https://github.com/hicetnunc2000/hicetnunc/wiki/hDAO)
+* [hDAO ○](https://github.com/hicetnunc2000/hicetnunc/wiki/hDAO)
 * [Contributing](https://github.com/hicetnunc2000/hicetnunc/wiki/Contributing)
 * [Contributing (Beginner's Guide)](https://github.com/hicetnunc2000/hicetnunc/wiki/Contributing-Beginners-Guide)
 * [Beware Copyminters!](https://github.com/hicetnunc2000/hicetnunc/wiki/Beware-copyminters!)
