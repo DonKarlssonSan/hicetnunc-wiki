@@ -18,5 +18,5 @@ Proceed to [How to cancel ❌](https://github.com/hicetnunc2000/hicetnunc/wiki/H
 
 ***
 
-**Hint:** _When you are swapping, you are sending an amount of OBJKTs of your edition out of your wallet. They're being held in a Hic et Nunc escrow wallet ready to be transferred to the buyer, which is why they're no longer visible in your collection. The ability to keep them visible is a feature that's been requested. Once the blockchain transaction is finished, the price should be set on the OBJKT and available for purchase, and your wallet should say that you sent that amount of OBJKTs._
+**Hint:** _When you are swapping, you are sending an amount of OBJKTs of your edition out of your wallet. They're being held in a Hic et Nunc escrow wallet ready to be transferred to the buyer, which is why they're no longer visible in your wallet. Once the blockchain transaction is finished, the price should be set on the OBJKT and available for purchase, and your wallet should say that you sent that amount of OBJKTs._
 
