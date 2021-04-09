@@ -1,7 +1,7 @@
 Tutorials created by the hicetnunc community.
 
 ***
-
+* [How I create NFTs on Hic Et Nunc 👾🌍♻️](https://youtu.be/VOa1Ky4rcKc) by Banjo Funk
 * [Getting Started As An NFT Artist On Tezos Using Hicetnunc](https://xtz.news/latest-tezos-news/getting-started-as-an-nft-artist-on-tezos-using-hicetnunc)
 
 * [Quickstart Tutorial Videos](https://twitter.com/verticalcrypto/status/1374349022245359627) by VerticalCrypto
@@ -11,5 +11,3 @@ Tutorials created by the hicetnunc community.
 > 1. Wallet (setup a Tezos wallet and get your first TEZ)
 > 2. Mint (mint your first NFT)
 > 3. Swap (price & list your NFT)
-
-* [How I create NFTs on Hic Et Nunc 👾🌍♻️](https://youtu.be/VOa1Ky4rcKc) by Banjo Funk
