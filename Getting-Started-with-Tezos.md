@@ -17,7 +17,7 @@ If you are an artist, you can also request to take some tezos from the Hicetnunc
 3. We will 0.33 TEZ to mint and swap your first OBJKTs. Please allow at least 24 hours for us to respond :)
 
 ## Donating to the hicetnunc fountain
-Want to donate some tezos to help support artists that are new hicetnunc? You can send some tezos here: tz1eggoxCes1qYRGLc3E1bg4uzuCUUuuQBb9
+Want to donate some tezos to help support artists that are new hicetnunc? You can send some tezos here: `tz1eggoxCes1qYRGLc3E1bg4uzuCUUuuQBb9`
 
 ***
 Already have tezos? 
