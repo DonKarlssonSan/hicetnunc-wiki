@@ -22,6 +22,3 @@ You might be trying to swap more editions than you minted, or your object is sti
 
 
 ***
-
-**Hint:** 
-
