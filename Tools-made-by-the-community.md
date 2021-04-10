@@ -10,6 +10,8 @@ _A tool to see all the transaction history for an OBJKT_
 
 * [Filter by tags](https://projects.stroep.nl/hicetnunc/#tags)
 
+* [Filter by Artists](https://projects.stroep.nl/hicetnunc/#artists)
+
 _A discovery tool for Hicetnunc. Filter by tag, etc._
 
 ***
