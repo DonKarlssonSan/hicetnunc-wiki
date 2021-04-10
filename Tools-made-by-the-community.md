@@ -17,6 +17,10 @@ _A discovery tool for Hicetnunc. Filter by tag, etc._
 _All the OBJKTs on Hicetnunc_
 
 ***
+
+* [Running IFPS node to pin content](https://twitter.com/antic/status/1374417104489697283?s=20) by Adam Eivy
+
+***
 * [Sort OBJKTs by price tiers](https://hicetnunc.miketyka.com) by Mike Tyka
 
 ***
