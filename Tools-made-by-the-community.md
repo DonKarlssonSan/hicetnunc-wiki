@@ -1,3 +1,5 @@
+# Discovery Tools
+
 * [OBJKT history](https://www.hicetnunc.xyz/objkt/25459) by Javier Graciá Carpio
 
 _A tool to see all the transaction history for an OBJKT_
@@ -17,12 +19,10 @@ _A discovery tool for Hicetnunc. Filter by tag, etc._
 _All the OBJKTs on Hicetnunc_
 
 ***
-
-* [Running IFPS node to pin content](https://twitter.com/antic/status/1374417104489697283?s=20) by Adam Eivy
-
-***
 * [Sort OBJKTs by price tiers](https://hicetnunc.miketyka.com) by Mike Tyka
 
-***
-* [Hicetnunc IFPS Pinning](https://gist.github.com/mattdesl/47f4ea12ea131eed8401bdacf95a1f47) by Matt DesLauriers
 
+# IFPS Pinning
+
+* [Hicetnunc IFPS Pinning](https://gist.github.com/mattdesl/47f4ea12ea131eed8401bdacf95a1f47) by Matt DesLauriers
+* [Running IFPS node to pin content](https://twitter.com/antic/status/1374417104489697283?s=20) by Adam Eivy
