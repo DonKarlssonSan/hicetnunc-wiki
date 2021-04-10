@@ -17,5 +17,5 @@ _A discovery tool for Hicetnunc. Filter by tag, etc._
 _All the OBJKTs on Hicetnunc_
 
 ***
-*[Sort OBJKTs by price tiers](https://hicetnunc.miketyka.com) by Mike Tyka
+* [Sort OBJKTs by price tiers](https://hicetnunc.miketyka.com) by Mike Tyka
 
