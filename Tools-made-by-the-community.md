@@ -25,6 +25,8 @@ _All the OBJKTs on Hicetnunc_
 
 * [Objkts explorer: Stats and RT feeds from hicetnunc's contract](https://objkts.xyz/) by @branksypop
 
+* [Artists rating by total value of sold NFTs](https://hashquine.github.io/hicetnunc/artists-by-income-3/index.html) by @HashQuine
+
 ## IFPS Pinning
 
 * [Hicetnunc IFPS Pinning](https://gist.github.com/mattdesl/47f4ea12ea131eed8401bdacf95a1f47) by Matt DesLauriers
