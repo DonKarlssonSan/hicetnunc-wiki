@@ -12,8 +12,6 @@ _A tool to see all the transaction history for an OBJKT_
 
 * [Filter by Artists](https://projects.stroep.nl/hicetnunc/#artists)
 
-_A discovery tool for Hicetnunc. Filter by tag, etc._
-
 ***
 
 * [https://here-or-there.glitch.me/](https://here-or-there.glitch.me/) by Quasimondo
