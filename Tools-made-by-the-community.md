@@ -25,7 +25,12 @@ _if you would like your tool added please DM @violetforest on discord or @violet
 
 ## Artist Tools
 * [Music Album HTML Template](https://www.hicetnunc.xyz/objkt/25359) by @cryptemes
+[github HTML template](https://github.com/EMES77/HEN_MusicAlbum_Template/releases/download/v2.0/CRYPTEMES_HEN_MusicAlbum_Template.zip)
+
+*** 
+
 * [Share your OBJKT link with image preview on social media, just replace your OBJKT ID](https://hen-link.herokuapp.com/6809) by @PureSpider
+_https://hen-link.herokuapp.com/`OBJKT ID`_
 
 ## Collector Tools
 
