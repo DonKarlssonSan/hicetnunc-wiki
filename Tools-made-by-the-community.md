@@ -14,7 +14,7 @@ _A tool to see all the transaction history for an OBJKT_
 
 ***
 
-* [https://here-or-there.glitch.me/](https://here-or-there.glitch.me/) by Quasimondo
+* [here-or-there.glitch.me](https://here-or-there.glitch.me/) by Quasimondo
 
 _All the OBJKTs on Hicetnunc_
 
