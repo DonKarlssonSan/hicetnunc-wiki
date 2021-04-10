@@ -20,5 +20,5 @@ _All the OBJKTs on Hicetnunc_
 * [Sort OBJKTs by price tiers](https://hicetnunc.miketyka.com) by Mike Tyka
 
 ***
-* (Hicetnunc IFPS Pinning)[https://gist.github.com/mattdesl/47f4ea12ea131eed8401bdacf95a1f47] by Matt DesLauriers
+* [Hicetnunc IFPS Pinning](https://gist.github.com/mattdesl/47f4ea12ea131eed8401bdacf95a1f47) by Matt DesLauriers
 
