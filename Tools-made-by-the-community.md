@@ -25,6 +25,7 @@ _if you would like your tool added please DM @violetforest on discord or @violet
 
 ## Artist Tools
 * [Music Album HTML Template](https://www.hicetnunc.xyz/objkt/25359) by @cryptemes
+
 [github HTML template](https://github.com/EMES77/HEN_MusicAlbum_Template/releases/download/v2.0/CRYPTEMES_HEN_MusicAlbum_Template.zip)
 
 *** 
