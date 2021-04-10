@@ -20,3 +20,6 @@
 
 * [Hicetnunc IFPS Pinning](https://gist.github.com/mattdesl/47f4ea12ea131eed8401bdacf95a1f47) by Matt DesLauriers
 * [Running IFPS node to pin content](https://twitter.com/antic/status/1374417104489697283?s=20) by Adam Eivy
+
+## Minting Tools
+* [Music Album HTML Template](https://www.hicetnunc.xyz/objkt/25359) by @cryptemes
