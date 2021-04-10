@@ -1,3 +1,5 @@
+_if you would like your tool added please DM @violetforest on discord or @violet_forest on twitter_
+
 ## Discovery Tools
 
 * [OBJKT transaction history](https://www.hicetnunc.xyz/objkt/25459) by Javier Graciá Carpio
@@ -21,5 +23,10 @@
 * [Hicetnunc IFPS Pinning](https://gist.github.com/mattdesl/47f4ea12ea131eed8401bdacf95a1f47) by Matt DesLauriers
 * [Running IFPS node to pin content](https://twitter.com/antic/status/1374417104489697283?s=20) by Adam Eivy
 
-## Minting Tools
+## Artist Tools
 * [Music Album HTML Template](https://www.hicetnunc.xyz/objkt/25359) by @cryptemes
+* [Share your OBJKT link with image preview on social media, just replace your OBJKT ID](https://hen-link.herokuapp.com/6809) by @PureSpider
+
+## Collector Tools
+
+* [A gallery for your HEN collection. Connect your wallet.](https://hen-gallery.herokuapp.com/) by @PureSpider
