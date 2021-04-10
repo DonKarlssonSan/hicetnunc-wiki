@@ -1,27 +1,16 @@
 ## Discovery Tools
 
-* [OBJKT history](https://www.hicetnunc.xyz/objkt/25459) by Javier Graciá Carpio
-
-_A tool to see all the transaction history for an OBJKT_
-
-***
+* [OBJKT transaction history](https://www.hicetnunc.xyz/objkt/25459) by Javier Graciá Carpio
 
 * [Discovery Tool](https://projects.stroep.nl/hicetnunc/#discover) by Mark Knol
 
-* [Filter by tags](https://projects.stroep.nl/hicetnunc/#tags)
+* [Filter by tags](https://projects.stroep.nl/hicetnunc/#tags) by Mark Knol
 
-* [Filter by Artists](https://projects.stroep.nl/hicetnunc/#artists)
-
-***
+* [Filter by Artists](https://projects.stroep.nl/hicetnunc/#artists) by Mark Knol
 
 * [here-or-there.glitch.me](https://here-or-there.glitch.me/) by Quasimondo
 
-_All the OBJKTs on Hicetnunc_
-
-***
 * [Sort OBJKTs by price tiers](https://hicetnunc.miketyka.com) by Mike Tyka
-
-***
 
 * [Objkts explorer: Stats and RT feeds from hicetnunc's contract](https://objkts.xyz/) by @branksypop
 
