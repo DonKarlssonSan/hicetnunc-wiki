@@ -21,6 +21,9 @@ _All the OBJKTs on Hicetnunc_
 ***
 * [Sort OBJKTs by price tiers](https://hicetnunc.miketyka.com) by Mike Tyka
 
+***
+
+* [Objkts explorer: Stats and RT feeds from hicetnunc's contract](https://objkts.xyz/) by @branksypop
 
 # IFPS Pinning
 
