@@ -23,7 +23,7 @@ _if you would like your tool added please DM @violetforest on discord or @violet
 * [Hicetnunc IFPS Pinning](https://gist.github.com/mattdesl/47f4ea12ea131eed8401bdacf95a1f47) by Matt DesLauriers
 * [Running IFPS node to pin content](https://twitter.com/antic/status/1374417104489697283?s=20) by Adam Eivy
 
-## Artist Tools
+## Creator Tools
 * [Music Album HTML Template](https://www.hicetnunc.xyz/objkt/25359) by @cryptemes
 
 > [github HTML template](https://github.com/EMES77/HEN_MusicAlbum_Template/releases/download/v2.0/CRYPTEMES_HEN_MusicAlbum_Template.zip)
