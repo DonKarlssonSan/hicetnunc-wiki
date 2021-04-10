@@ -34,6 +34,11 @@ _if you would like your tool added please DM @violetforest on discord or @violet
 
 > ```https://hen-link.herokuapp.com/OBJKT-ID```
 
+***
+
+* [Telegram Notifier Bot](https://tzsnt.fr/)
+> Get a telegram message everytime someone buys something.
+
 ## Collector Tools
 
 * [A gallery for your HEN collection, just connect your wallet.](https://hen-gallery.herokuapp.com/) by @PureSpider
