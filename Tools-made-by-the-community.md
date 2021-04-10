@@ -29,7 +29,8 @@ _if you would like your tool added please DM @violetforest on discord or @violet
 
 *** 
 
-* [Share your OBJKT link with image preview on social media, just replace your OBJKT ID](https://hen-link.herokuapp.com/6809) by @PureSpider
+* Share your OBJKT link with image preview on social media, just replace your OBJKT ID by @PureSpider
+
 ```https://hen-link.herokuapp.com/OBJKT-ID```
 
 ## Collector Tools
