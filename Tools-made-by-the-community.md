@@ -29,4 +29,4 @@ _if you would like your tool added please DM @violetforest on discord or @violet
 
 ## Collector Tools
 
-* [A gallery for your HEN collection. Connect your wallet.](https://hen-gallery.herokuapp.com/) by @PureSpider
+* [A gallery for your HEN collection, just connect your wallet.](https://hen-gallery.herokuapp.com/) by @PureSpider
