@@ -1,4 +1,4 @@
-# Discovery Tools
+## Discovery Tools
 
 * [OBJKT history](https://www.hicetnunc.xyz/objkt/25459) by Javier Graciá Carpio
 
@@ -25,7 +25,7 @@ _All the OBJKTs on Hicetnunc_
 
 * [Objkts explorer: Stats and RT feeds from hicetnunc's contract](https://objkts.xyz/) by @branksypop
 
-# IFPS Pinning
+## IFPS Pinning
 
 * [Hicetnunc IFPS Pinning](https://gist.github.com/mattdesl/47f4ea12ea131eed8401bdacf95a1f47) by Matt DesLauriers
 * [Running IFPS node to pin content](https://twitter.com/antic/status/1374417104489697283?s=20) by Adam Eivy
