@@ -3,10 +3,13 @@ hDAO is a token distributed to both buyer and sellers of NFTs on Hic et Nunc whe
 
 When you click on the circle next to an artwork, this upvotes the NFT. You are sending 100 hDAO tokens to the hic et Nunc [HDAO-NFT wallet](https://tzkt.io/KT1TybhR7XraG75JFYKSrh7KnxukMBT5dor6/tokens), and the balance of hDAOs listed on the NFT is increased by 100. This operation incurs a small blockchain transaction cost of around 0.011ꜩ (sometimes known as a "gas" fee).
 
-When you click on the circle, it is like upvoting an NFT. When you upvote, you send hDAO tokens to the NFT creator (The hDAOs are directed to the specific NFT). The creator of the NFT can choose to withdraw the hDAOs from their wallet, keep it, or use it to vote on other artworks. As the creator withdraws or spends the hDAOs, the balance will be reduced and the NFT will fall in the position of the feed.
+The creator of the NFT can choose to withdraw the hDAOs from their wallet, keep it, or use it to vote on other artworks. As the creator withdraws or spends the hDAOs, the balance will be reduced and the NFT will fall in the position of the feed.
+
+The hDAOs appear in your profile and should also appear in your wallet.
 
 Visit the [hDAO feed](https://hicetnunc.xyz/hdao).
-An example of the info stored in the hDAO blockchain:
+
+## An example of the info stored in the hDAO blockchain
 
 ```OBJKT KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton
 hDAO KT1AFA2mwNUMNd4SsujE1YYp29vd8BZejyKW
@@ -14,8 +17,6 @@ Curations KT1TybhR7XraG75JFYKSrh7KnxukMBT5dor6 (hDAO-NFT wallet)
 OBJKT Swap/Mintery KT1Hkg5qeNhfwpKW4fXvq7HGZB9z2EnmCCA9
 OBJKTs KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton
 ```
-
-The hDAOs appear in your profile and should also appear in your wallet.
 
 ## How do I earn hDAO?
 Until mid-April, when you buy an NFT, say for 1ꜩ, you will earn 0.5 hDAO, and the seller will also earn 0.5 hDAO. The amounts are shown on Hic et Nunc in millionths of hDAO, so 0.5 hDAO will show up as 500000, and as 0.5 hDAO in your wallet.
