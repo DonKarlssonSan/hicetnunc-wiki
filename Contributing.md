@@ -39,4 +39,4 @@ You can clone this repo if you'd like,
 
 `git clone https://github.com/hicetnunc2000/hicetnunc.wiki.git`
 
-however, since wikis do not have pull requests, you should make a new issue and put a label as "FAQ". Someone who is already contributor will review it and merge your changes.
+however, since wikis do not have pull requests, you should make a new issue and put a label as "FAQ". Someone who is already contributor will review it and merge your changes. There is also a [template](https://github.com/hicetnunc2000/hicetnunc/blob/main/.github/ISSUE_TEMPLATE/faq_update.md)
