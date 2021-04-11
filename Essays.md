@@ -1,0 +1,1 @@
+* (Not Another JPEG)https://www.plummerfernandez.com/works/not-another-jpeg/ by M Plummer-Fernández
