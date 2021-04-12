@@ -13,7 +13,7 @@ Minting on hicetnunc only costs ~0.08 tezos. You can buy some on an exchange sit
 If you are an artist, you can also request to take some tezos from the Hicetnunc tezos fountain. Please follow the instructions below:
 
 1. Post the fountain emoji on one of your socials so we can verify you are the artist
-2. Message @devetec (USA timezone) or @violetforest (europe time zone) on the discord with your tezos wallet address.
+2. Message us in the #tezos-fonutain channel on the discord with your tezos wallet address and a link to your social media post.
 3. We will send 0.33 TEZ to mint and swap your first OBJKTs. Please allow at least 24 hours for us to respond :)
 
 ## Donating to the hicetnunc fountain
