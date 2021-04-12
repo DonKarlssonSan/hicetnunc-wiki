@@ -1,5 +1,3 @@
-_if you would like your tool added please DM @violetforest on discord or @violet_forest on twitter_
-
 ## Discovery Tools
 
 * [OBJKT transaction history](https://www.hicetnunc.xyz/objkt/25459) by Javier Graciá Carpio
