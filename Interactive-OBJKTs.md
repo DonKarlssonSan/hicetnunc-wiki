@@ -31,32 +31,9 @@ The cover image can be a JPEG, PNG, or GIF.
 
 ## Resources
 
-You will need to include all libraries, scripts, styles, and other assets referenced in your code inside your project folder. References to most external resources will  be blocked. While there are some exceptions to this, it's generally best practice to bundle everything and avoid external dependencies. More information about whitelisted external resources is coming soon.
+You will need to include all libraries, scripts, styles, and other assets referenced in your code inside your project folder. References to most external resources will  be blocked. While there are some exceptions to this, it's generally best practice to bundle everything and avoid external dependencies. See whitelisted domains below:
 
-## User Data
-
-Your project will be displayed within a sandboxed iframe, meaning it won't have access to any user data from the [hicetnunc.xyz](http://hicetnunc.xyz) site. However, the viewer and creator addresses are passed into the iframe via URL query parameters:
-
-```
-?viewer={VIEWER_ADDRESS}&creator={CREATOR_ADDRESS}
-```
-
-You can parse these query parameters in javascript and use them in your project as you wish:
-
-```jsx
-const creator = new URLSearchParams(window.location.search).get('creator')
-const viewer = new URLSearchParams(window.location.search).get('viewer')
-```
-
-## Minting
-
-- Once your project folder is ready to be minted, go ahead and compress it into a zip file.
-- Head to [https://hicetnunc.xyz/mint](https://hicetnunc.xyz/mint), fill out the information for your work, and upload your zip file.
-- You should now see a preview of your work embedded on the page. Make sure to test it thoroughly to make sure it works as expected.
-- If everything looks good, make sure your wallet is synced and press the "mint" button at the bottom of the page.
-- Congratulations! You have just minted your first interactive OBJKT 🎉
-
-## Allowed Domains
+## Whitelisted Domains
 Interactive OBJKTS can access the following external domains:
 
 | domain        | img-src | media-src | font-src | prefetch-src | connect-src |
@@ -83,6 +60,29 @@ Interactive OBJKTS can access the following external domains:
 | https://api.openweathermap.org/ | | | | | ✅ |
 | https://hicetnunc.xyz/ | | | | | ✅ |
 | https://*.hicetnunc.xyz/ | | | | | ✅ |
+
+## User Data
+
+Your project will be displayed within a sandboxed iframe, meaning it won't have access to any user data from the [hicetnunc.xyz](http://hicetnunc.xyz) site. However, the viewer and creator addresses are passed into the iframe via URL query parameters:
+
+```
+?viewer={VIEWER_ADDRESS}&creator={CREATOR_ADDRESS}
+```
+
+You can parse these query parameters in javascript and use them in your project as you wish:
+
+```jsx
+const creator = new URLSearchParams(window.location.search).get('creator')
+const viewer = new URLSearchParams(window.location.search).get('viewer')
+```
+
+## Minting
+
+- Once your project folder is ready to be minted, go ahead and compress it into a zip file.
+- Head to [https://hicetnunc.xyz/mint](https://hicetnunc.xyz/mint), fill out the information for your work, and upload your zip file.
+- You should now see a preview of your work embedded on the page. Make sure to test it thoroughly to make sure it works as expected.
+- If everything looks good, make sure your wallet is synced and press the "mint" button at the bottom of the page.
+- Congratulations! You have just minted your first interactive OBJKT 🎉
 
 # Known Issues
 
