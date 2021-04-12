@@ -56,6 +56,34 @@ const viewer = new URLSearchParams(window.location.search).get('viewer')
 - If everything looks good, make sure your wallet is synced and press the "mint" button at the bottom of the page.
 - Congratulations! You have just minted your first interactive OBJKT 🎉
 
+## Allowed Domains
+Interactive OBJKTS can access the following external domains:
+
+| domain        | img-src | media-src | font-src | prefetch-src | connect-src |
+| ------------- |:-------------:| -----:| -----:| -----:| -----:|
+| https://ipfs.infura.io/ | ✅ | ✅ | ✅ | ✅ |
+| https://*.infura.io/ | | | | ✅ |
+| https://infura.io/ | | | | ✅ |
+| https://cloudflare-ipfs.com/ | ✅ | ✅ | ✅ | ✅ |
+| https://ipfs.io/ | ✅ | ✅ | ✅ | ✅ |
+| https://gateway.pinata.cloud/ | ✅ | ✅ | ✅ | ✅ |
+| https://fonts.googleapis.com/ | | | ✅ | ✅ |
+| https://better-call.dev/ | | | | | ✅ |
+| https://*.better-call.dev/ | | | | | ✅ |
+| https://*.cryptonomic-infra.tech/ | | | | | ✅ |
+| https://cryptonomic-infra.tech/ | | | | | ✅ |
+| bootstrap.libp2p.io | | | | | ✅ |
+| preload.ipfs.io | | | | | ✅ |
+| https://api.etherscan.io/ | | | | | ✅ |
+| https://api.thegraph.com/ | | | | | ✅ |
+| https://*.tzkt.io/ | | | | | ✅ |
+| https://api.tzstats.com/ | | | | | ✅ |
+| https://*.wikidata.org/ | | | | | ✅ |
+| https://*.coinmarketcap.com/ | | | | | ✅ |
+| https://api.openweathermap.org/ | | | | | ✅ |
+| https://hicetnunc.xyz/ | | | | | ✅ |
+| https://*.hicetnunc.xyz/ | | | | | ✅ |
+
 # Known Issues
 
 - If you are using Brave and notice the HTML preview not working on the mint page, you will need to disable your shields for this site, or reconfigure them to allow service workers.
