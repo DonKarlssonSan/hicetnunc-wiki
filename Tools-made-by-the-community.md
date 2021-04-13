@@ -30,7 +30,7 @@
 
 * **Share your OBJKT link with image preview on social media, just replace your OBJKT ID** by @PureSpider
 
-> ```https://hen-link.herokuapp.com/OBJKT-ID```
+> ```http://objkt.link/OBJKT-ID```
 
 ***
 
