@@ -8,6 +8,8 @@
 
 * [Filter by Artists](https://projects.stroep.nl/hicetnunc/#artists) by Mark Knol
 
+* [Search and Save Artists](https://projects.stroep.nl/hicetnunc/#artists) by Mark Knol
+
 * [here-or-there.glitch.me](https://here-or-there.glitch.me/) by Quasimondo
 
 * [Sort OBJKTs by price tiers](https://hicetnunc.miketyka.com) by Mike Tyka
