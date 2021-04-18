@@ -36,13 +36,12 @@
 
 ***
 
-* [Telegram Notifier Bot](https://tzsnt.fr/)
-> Get a telegram message everytime someone buys something.
+* [Telegram Notifier Bot](https://tzsnt.fr/): Get a telegram message every time someone buys something.
 
 ## Gallery Tools
 
 * [A gallery for your HEN collection, just connect your wallet.](https://hen-gallery.herokuapp.com/) by @PureSpider
-* [Digital Frame Maker](https://primitive-objkts.gimmix.org/) by [shahruz](https://github.com/shahruz). [src](https://github.com/gimmix-org/primitive-objkts) [github](https://github.com/gimmix-org/primitive-objkts) [demo](https://primitive-objkts.gimmix.org/)
+* [Digital Frame Maker](https://primitive-objkts.gimmix.org/) by [shahruz](https://github.com/shahruz). [src](https://github.com/gimmix-org/primitive-objkts) [github](https://github.com/gimmix-org/primitive-objkts) [[demo]](https://primitive-objkts.gimmix.org/)
 
 
 ## Misc
