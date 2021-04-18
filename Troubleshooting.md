@@ -13,10 +13,4 @@ Usually we would tell you to burn one, but if the burn feature isn't working, we
 ## Nothing is working and I've tried all the troubleshooting possible. What should I do?
 We recommend to wait at least one day. The developers are constantly pushing updates to the site, and sometimes patience is the best answer.
 
-## Features not yet implemented. (At the moment there is no ETA or timeline available)
-* Changing % of royalties when your NFT is resold
-* Deleting tags already set in your NFT
-* Sorting/discovery by tags
-* Sorting your creations/collections
-
 
