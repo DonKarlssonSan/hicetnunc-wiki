@@ -28,4 +28,4 @@
 * [Essays & Blog posts](https://github.com/hicetnunc2000/hicetnunc/wiki/Essays-blogs)
 
 **Languages**
-* [Portuguesa](https://github.com/hicetnunc2000/hicetnunc/wiki/pt:Home)
+* [Português](https://github.com/hicetnunc2000/hicetnunc/wiki/pt:Home)
