@@ -43,6 +43,8 @@
 
 * [A gallery for your HEN collection, just connect your wallet.](https://hen-gallery.herokuapp.com/) by @PureSpider
 * [Digital Frame Maker](https://primitive-objkts.gimmix.org/) by [shahruz](https://github.com/shahruz). [src](https://github.com/gimmix-org/primitive-objkts)
+> https://github.com/gimmix-org/primitive-objkts
+> https://primitive-objkts.gimmix.org/
 
 
 ## Misc
