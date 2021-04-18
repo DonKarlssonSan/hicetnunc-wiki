@@ -1,0 +1,2 @@
+* [Hicetnunc.xyz and NFTs on the Tezos Blockchain ~ What's new ~ April 2021 Mega Update](https://gorillasun.de/blog/Hicetnunc.xyz-and-NFTs-on-the-Tezos-Blockchain-~-What's-new-~-April-2021-Update)
+* [Not Another JPEG](https://www.plummerfernandez.com/works/not-another-jpeg/) by M Plummer-Fernández
