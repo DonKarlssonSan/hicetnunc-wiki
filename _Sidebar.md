@@ -26,3 +26,6 @@
 * [NFT Creators' Code of Conduct](https://github.com/hicetnunc2000/hicetnunc/wiki/NFT-Creators-Code-of-Conduct)
 * [Tools Made By the Community](https://github.com/hicetnunc2000/hicetnunc/wiki/Tools-made-by-the-community)
 * [Essays & Blog posts](https://github.com/hicetnunc2000/hicetnunc/wiki/Essays-blogs)
+
+**Languages**
+* [Portuguesa](https://github.com/hicetnunc2000/hicetnunc/wiki/pt:Home)
