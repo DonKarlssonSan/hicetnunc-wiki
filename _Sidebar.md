@@ -25,4 +25,4 @@
 **Misc**
 * [NFT Creators' Code of Conduct](https://github.com/hicetnunc2000/hicetnunc/wiki/NFT-Creators-Code-of-Conduct)
 * [Tools Made By the Community](https://github.com/hicetnunc2000/hicetnunc/wiki/Tools-made-by-the-community)
-* [Essays](https://github.com/hicetnunc2000/hicetnunc/wiki/Essays-Blogs)
+* [Essays & Blog posts](https://github.com/hicetnunc2000/hicetnunc/wiki/Essays-blogs)
