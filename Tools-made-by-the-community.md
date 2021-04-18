@@ -42,6 +42,8 @@
 ## Collector Tools
 
 * [A gallery for your HEN collection, just connect your wallet.](https://hen-gallery.herokuapp.com/) by @PureSpider
+* [Digital Frame Maker](https://primitive-objkts.gimmix.org/) by [shahruz](https://github.com/shahruz). [src](https://github.com/gimmix-org/primitive-objkts)
+
 
 ## Misc
 * [Naive status page for hicetnunc.xyz](https://hicetnuncstatus.herokuapp.com/) by @fraguada @LeithBA [github](https://github.com/fraguada/hicetnuncstatus)
