@@ -2,6 +2,7 @@
 
 **Minting Guide**
 * [Introduction](https://github.com/hicetnunc2000/hicetnunc/wiki/Introduction)
+* [Edit your profile](https://github.com/hicetnunc2000/hicetnunc/wiki/Edit-your-profile)
 * [Getting started with Tezos](https://github.com/hicetnunc2000/hicetnunc/wiki/Getting-Started-with-Tezos)
 * [How to mint 🌿](https://github.com/hicetnunc2000/hicetnunc/wiki/How-to-mint-🌿)
 * [How to swap 🔃](https://github.com/hicetnunc2000/hicetnunc/wiki/How-to-swap-🔃)
@@ -15,7 +16,6 @@
 
 * [General](https://github.com/hicetnunc2000/hicetnunc/wiki/General)
 * [Troubleshooting](https://github.com/hicetnunc2000/hicetnunc/wiki/Troubleshooting)
-* [Edit your profile](https://github.com/hicetnunc2000/hicetnunc/wiki/Edit-your-profile)
 * [Features Not Yet Implemented](https://github.com/hicetnunc2000/hicetnunc/wiki/Features-not-yet-implemented)
 * [hDAO ○](https://github.com/hicetnunc2000/hicetnunc/wiki/hDAO)
 * [Contributing](https://github.com/hicetnunc2000/hicetnunc/wiki/Contributing)
