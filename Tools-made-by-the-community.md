@@ -39,7 +39,7 @@
 * [Telegram Notifier Bot](https://tzsnt.fr/)
 > Get a telegram message everytime someone buys something.
 
-## Collector Tools
+## Gallery Tools
 
 * [A gallery for your HEN collection, just connect your wallet.](https://hen-gallery.herokuapp.com/) by @PureSpider
 * [Digital Frame Maker](https://primitive-objkts.gimmix.org/) by [shahruz](https://github.com/shahruz). [src](https://github.com/gimmix-org/primitive-objkts)
