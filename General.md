@@ -7,6 +7,11 @@ Please see [Editing your profile](https://github.com/hicetnunc2000/hicetnunc/wik
 ## Can I sell my OBJKTs on Opensea?
 Opensea announced in February 2021 that they will be working with Tezos. They haven't announced any news since then. We can only hope this will be an option in the future.
 
+## Why is my OJKT not showing up on the feed?
+You need to have registered/updated a profile and/or hold some hDAO tokens to be shown on feed. How much hDAO you need is relative to how much you mint and current market price. If you have an update profile you may mint ~7 OBJKTs per week-window, beyond that you will need the minimum of (0.5tez, $1 or 0.1hDAO), in hDAO, per OBJKT, beyond your 7 free ones, furthmore, if you mint a lot in a 3 hour span, that threshold is fed through a exponential within that 3 hour window.
+You may acquire hDAO through tips (withdrawal coming soon!) or by purchasing it via swap markets like Quipuswap.
+This was implemented to combat copyminters and shouldn't affect regular users.
+
 ## What is this 2.5% fee?
 The fee means that when your OBJKT sells, Hicetnunc will charge 2.5% of the sale. It is used to maintain the server. We suggest factoring this into your sell price to cover the costs.
 
